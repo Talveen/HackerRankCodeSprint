@@ -1,4 +1,4 @@
-package com.wintal.challenge.two;
+package com.wintal.codesprint;
 
 import java.util.ArrayList;
 import java.util.HashMap;
