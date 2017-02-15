@@ -11,7 +11,7 @@ public class ProblemOne{
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
-        int n1=0,n2=0,n3=0,n4=0,n5=0;
+        int n1=0,n2=0,n3=0,n4=0,n5=0; 
         boolean flag=true;
         int[] types = new int[n];
         for(int types_i=0; types_i < n; types_i++){
